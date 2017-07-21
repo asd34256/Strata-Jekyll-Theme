@@ -26,14 +26,12 @@ categories:
 
 <div class="present-before-paste"><strong>Study Interests &amp; Skills</strong></div>
 
-* ReactJS - AngularJS{: .present-before-paste}
-* HTML - CSS{: .present-before-paste}
-* JS{: .present-before-paste}
-* Git{: .present-before-paste}
-* Python{: .present-before-paste}
-* C, C++{: .present-before-paste}
-* Java{: .present-before-paste}
-* Matlab{: .present-before-paste}
-* Oracle, Tibero SQL{: .present-before-paste}
-
-<div class="present-before-paste">&nbsp;</div>
+* ReactJS - AngularJS
+* HTML - CSS
+* JS
+* Git
+* Python
+* C, C++
+* Java
+* Matlab
+* Oracle, Tibero SQL
