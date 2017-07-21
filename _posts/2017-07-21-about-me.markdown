@@ -10,8 +10,10 @@ categories:
 ![](/uploads/versions/swissme---x0-118-1440-845-740-434x---.jpg){: .fit.image}
 {: .present-before-paste}
 
-**&nbsp;Hee Joon&nbsp;**
-{: .present-before-paste}
+<div class="present-before-paste"><strong>Hee Joon&nbsp;</strong></div>
 
-&nbsp;Yong-in, Korea &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Seoul National Univ - Computer Science & Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-{: .present-before-paste}
+<div class="present-before-paste">&nbsp;</div>
+
+<div class="present-before-paste">Yong-in, Korea</div>
+
+<div class="present-before-paste">Seoul National Univ - Computer Science &amp; Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
