@@ -14,6 +14,26 @@ categories:
 
 <div class="present-before-paste">&nbsp;</div>
 
-<div class="present-before-paste">Yong-in, Korea</div>
+<div class="present-before-paste">Live in Yong-in, Korea.</div>
 
-<div class="present-before-paste">Seoul National Univ - Computer Science &amp; Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div class="present-before-paste">&nbsp;</div>
+
+<div class="present-before-paste">Student of Seoul National Univ - Computer Science &amp; Engineering.</div>
+
+<div class="present-before-paste">Programmer at WaffleStudio.</div>
+
+<div class="present-before-paste">&nbsp;</div>
+
+<div class="present-before-paste"><strong>Study Interests &amp; Skills</strong></div>
+
+* ReactJS - AngularJS{: .present-before-paste}
+* HTML - CSS{: .present-before-paste}
+* JS{: .present-before-paste}
+* Git{: .present-before-paste}
+* Python{: .present-before-paste}
+* C, C++{: .present-before-paste}
+* Java{: .present-before-paste}
+* Matlab{: .present-before-paste}
+* Oracle, Tibero SQL{: .present-before-paste}
+
+<div class="present-before-paste">&nbsp;</div>
